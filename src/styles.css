@@ -1,1 +1,231 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%;  scroll-behavior: smooth;}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.cursor-pointer
+{
+    cursor: pointer;
+}
+
+.image-fit
+{
+    object-fit: cover;
+}
+
+.whitesmoke
+{
+    background-color: whitesmoke;
+}
+
+.underline
+{
+    text-decoration: underline;
+}
+
+.objectFit
+{
+    object-fit: cover;
+}
+
+.borderRadius2
+{
+    border-radius: 2px;
+}
+
+.borderRadius4
+{
+    border-radius: 4px;
+}
+
+.borderRadius5
+{
+    border-radius: 5px;
+}
+
+
+.borderRadius6
+{
+    border-radius: 6px;
+}
+
+.borderRadius8
+{
+    border-radius: 8px;
+}
+
+.borderRadius10
+{
+    border-radius: 10px;
+}
+
+.borderRadius15
+{
+    border-radius: 10px;
+}
+
+.borderRadius20
+{
+    border-radius: 20px;
+}
+
+.borderRadius25
+{
+    border-radius: 25px;
+}
+
+.borderRadius30
+{
+    border-radius: 30px;
+}
+
+.borderRadius40
+{
+    border-radius: 40px;
+}
+
+.borderRadius50
+{
+    border-radius: 50px;
+}
+
+.fontsize6
+{
+    font-size: 8px;
+}
+.fontsize7
+{
+    font-size: 8px;
+}
+.fontsize8
+{
+    font-size: 8px;
+}
+
+.fontsize10
+{
+    font-size: 10px;
+}
+
+.fontsize
+{
+    font-size: 11px;
+}
+
+.fontsize12
+{
+    font-size: 12px;
+}
+
+.fontsize13
+{
+    font-size: 13px;
+}
+
+.fontsize14
+{
+    font-size: 14px;
+}
+
+.fontsize15
+{
+    font-size: 15px;
+}
+.fontsize16
+{
+    font-size: 16px;
+}
+.fontsize17
+{
+    font-size: 17px;
+}
+.fontsize18
+{
+    font-size: 18px;
+}
+.fontsize19
+{
+    font-size: 19px;
+}
+.fontsize20
+{
+    font-size: 20px;
+}
+
+.fontsize25
+{
+    font-size: 25px;
+}
+.fontsize30
+{
+    font-size: 30px;
+}
+
+.fontsize35
+{
+    font-size: 35px;
+}
+
+.fontsize40
+{
+    font-size: 40px;
+}
+
+.imgHover{
+    overflow: hidden;
+}
+
+
+.marginTop10{
+    margin-top: 10px;
+}
+
+.marginTop15{
+    margin-top: 15px;
+}
+
+.marginTop20{
+    margin-top: 20px;
+}
+
+.marginTop25{
+    margin-top: 25px;
+}
+
+.marginToo30{
+    margin-top: 30px;
+}
+
+.marginTop35{
+    margin-top: 35px;
+}
+
+.marginTop40{
+    margin-top: 40px;
+}
+
+.marginTop45{
+    margin-top: 45px;
+}
+
+.marginTop50{
+    margin-top: 50px;
+}
+.imgHover img{
+    transition: 0.2s all ease-in-out;
+}
+
+.imgHover:hover img {
+    transform: scale(1.2);
+}
+
+.fontstyle-italic
+{
+    font-style: italic;
+}
+
+/* .navbarFixed{
+    position: fixed;
+    width: 100%;
+    z-index: 999999999999999999999999999999999999999999999999999999;
+  } */

@@ -1,0 +1,9 @@
+.rowFooterWidth
+{
+    max-width: 22rem;
+}
+
+.objFit
+{
+    object-fit: cover;
+}
