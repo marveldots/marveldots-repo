@@ -256,3 +256,16 @@ form.example::after {
   clear: both;
   display: table;
 }
+
+
+
+/* FOOTER */
+.rowFooterWidth
+{
+    max-width: 22rem;
+}
+
+.objFit
+{
+    object-fit: cover;
+}

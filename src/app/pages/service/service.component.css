@@ -1,0 +1,76 @@
+.aboutDiv001
+{
+    position: absolute;
+    height: 200;
+    width: 100%;
+    top: 0;
+    z-index: -1;
+    background-color: #F2F3F4;
+    padding-top: 10%;
+}
+
+.serv001
+{
+  font-size: 40px;
+  margin-left: 120px;
+  margin-top: 20px;
+  font-family: 'Libre Baskerville', serif;
+  font-family: 'Satisfy', cursive;
+  font-style: italic;
+}
+
+
+
+.serv002
+{
+    font-size: 40px;
+    margin-left: 170px;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Satisfy', cursive;
+    margin: 0;
+    line-height: 5px;
+    font-style: italic;
+}
+
+
+h1.demo {
+    padding: 0 !important;
+    margin: 0 !important;
+    line-height: 80px;
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .button {
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+    font-weight: bold;
+    padding: 12px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 30%;
+  }
+
+  .button001 {
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+    font-weight: bold;
+    padding: 12px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 25%!important;
+    margin-bottom: 5%;
+  }

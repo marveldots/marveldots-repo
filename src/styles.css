@@ -89,6 +89,16 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     border-radius: 50px;
 }
 
+.borderRadius70
+{
+    border-radius: 70px;
+}
+
+.borderRadius100
+{
+    border-radius: 100px;
+}
+
 .fontsize6
 {
     font-size: 8px;
@@ -192,7 +202,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     margin-top: 25px;
 }
 
-.marginToo30{
+.marginTop30{
     margin-top: 30px;
 }
 
