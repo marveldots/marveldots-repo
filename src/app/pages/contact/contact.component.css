@@ -1,0 +1,36 @@
+.portfolioDiv001
+{
+    position: absolute;
+    height: 200;
+    width: 100%;
+    top: 0;
+    z-index: -1;
+    padding-top: 13%;
+}
+
+
+.fcchanages
+{
+    background-color: transparent;
+    border-radius: 20px;
+}
+
+.marginTopNew
+{
+    margin-top: 50px!important;
+}
+
+
+.button {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 12px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }

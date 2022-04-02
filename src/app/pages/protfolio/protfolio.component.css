@@ -1,0 +1,9 @@
+.portfolioDiv001
+{
+    position: absolute;
+    height: 200;
+    width: 100%;
+    top: 0;
+    z-index: -1;
+    padding-top: 10%;
+}
